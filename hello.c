@@ -1,0 +1,3 @@
+main(){
+	printf("bai2");
+}
