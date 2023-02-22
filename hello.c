@@ -1,3 +1,3 @@
 main(){
-	printf("bai2");
+	printf("bai2\n");
 }
